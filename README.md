@@ -1,6 +1,6 @@
 # DevOps Deployment Automation with Terraform, AWS and Docker - Recipe App API
 
-<h2 ahlign="center">A production-ready Recipe App API built with industry best practices and automated DevOps workflows. The project leverages AWS for cloud infrastructure, Terraform for Infrastructure as Code, and Docker for containerization. Designed to reflect real-world company environments, it demonstrates scalable, automated deployments, CI/CD pipelines, and cloud-native application delivery."</h2>
+<h3 ahlign="center">A production-ready Recipe App API built with industry best practices and automated DevOps workflows. The project leverages AWS for cloud infrastructure, Terraform for Infrastructure as Code, and Docker for containerization. Designed to reflect real-world company environments, it demonstrates scalable, automated deployments, CI/CD pipelines, and cloud-native application delivery."</h3>
 
 ## Local Development
 
@@ -197,13 +197,3 @@ git config --global user.name "User Name"
 git config --global push.autoSetupRemote true
 ```
 
-## Other courses
-
-Check out our courses on [londonappdeveloper.com](https://londonappdeveloper.com).
-
-Or find them below:
-
-- [Python for Absolute Beginners](https://londonapp.dev/c4)
-- [Build a Backend REST API with Python & Django REST Framework - Beginner](https://londonapp.dev/c1)
-- [Build a Backend REST API with Python & Django REST Framework - Advanced](https://londonapp.dev/c2)
-- [Deploy a Serverless Django App on Google App Engine](https://londonapp.dev/c5)
